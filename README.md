@@ -26,7 +26,6 @@
 - [Content](#content)
 - [Usage](#usage)
 - [Config](#config)
-- [Warning](#warning)
 - [Disclaimer](#disclaimer)
 - [Authors](#authors)
 - [Contact](#contact)
@@ -40,7 +39,7 @@
 ## Config
 
 | Variable               | Description                                                           | Default value          |
-| :---                   | :---                                                                  | :---                   |
+| :--------------------- | :-------------------------------------------------------------------- | :--------------------- |
 | CONFIG_SPEED           | Bot's betting speed - (1000/CONFIG_SPEED) bets/sec                    | 1 (1 bet per second)   |
 
 ## Disclaimer
