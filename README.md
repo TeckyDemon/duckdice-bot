@@ -24,12 +24,17 @@
 ## Content
 
 - [Content](#content)
+- [Features](#features)
 - [Usage](#usage)
 - [Config](#config)
 - [Disclaimer](#disclaimer)
 - [Authors](#authors)
 - [Contact](#contact)
 - [License](#license)
+
+## features
+
+* Configurable speed.
 
 ## Usage
 
